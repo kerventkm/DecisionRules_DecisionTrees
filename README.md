@@ -1,4 +1,4 @@
-# DrDt
+# DecisionRules_DecisionTrees
 
 This is reposirory for the project "Relationship between Decision Trees and Decision Rule Systems"
 
